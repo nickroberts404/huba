@@ -1,6 +1,6 @@
 {
   "name": "huba",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A neat little node tool that will try to take you to the current package's github page.",
   "repository": {
     "type": "git",
