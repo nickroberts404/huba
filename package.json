@@ -2,10 +2,6 @@
   "name": "huba",
   "version": "1.0.0",
   "description": "A neat little node tool that will try to take you to the current package's github page.",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nickroberts404/huba.git"
@@ -17,6 +13,14 @@
   },
   "license": "ISC",
   "dependencies": {
+    "chalk": "^1.1.1",
     "open": "0.0.5"
-  }
+  },
+  "keywords": [
+    "repo",
+    "github",
+    "development",
+    "tool",
+    "cli"
+  ]
 }
