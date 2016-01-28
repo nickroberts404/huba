@@ -1,0 +1,17 @@
+{
+  "name": "neatTool",
+  "version": "1.0.0",
+  "description": "A neat little npm tool.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nick Roberts",
+  "preferGlobal": true,
+  "bin": {"neatTool": "index.js"},
+  "license": "ISC",
+  "dependencies": {
+  }
+}
+
+// If you want to try your module out, type 'npm link' into your terminal while in this directory
